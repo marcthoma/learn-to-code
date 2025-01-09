@@ -24,5 +24,4 @@ func printTimeTables(number: Int, end: Int) {
 }
 
 printTimeTables(number: 5, end: 10)
- 
-
+  
