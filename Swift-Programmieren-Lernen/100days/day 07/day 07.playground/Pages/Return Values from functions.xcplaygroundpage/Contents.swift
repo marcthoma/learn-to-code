@@ -23,4 +23,4 @@ func pythogoras(a: Double, b: Double) -> Double {
 
 print("Das Ergebnis lautet \(pythogoras(a: 3, b: 4))")
 
- 
+
