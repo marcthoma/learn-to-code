@@ -12,5 +12,7 @@ printTimeTables(for: 4)
 var characters = ["Peter", "Tom", "Charoline"]
 print (characters.count)
 characters.removeAll()
+// Hier ist der Default-Wert von keepingCapacity: false, daher kann er in den meisten Fälle weggelassen werden.
+// characters.removeAll(keepingCapacity: true)
 print (characters.count)
 
